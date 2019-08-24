@@ -1,0 +1,15 @@
+
+.form-inline{
+    justify-content: center;
+}
+.contact_name{
+    width: 50%;
+}
+.form-inline .form-control{
+    width: 100%;
+}
+.form-inline button{
+    margin-right: 1em;
+    background-color: #d677ea;
+    border:none;
+}

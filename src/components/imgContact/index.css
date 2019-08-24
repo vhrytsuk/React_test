@@ -1,0 +1,16 @@
+.imgContact{
+    width: 25%;
+   
+}
+.imgContact:not(:last-child){
+    margin-right: 30px;
+}
+.linc__bloc{
+   margin-right:10px;
+}
+.linc__bloc:hover{
+    transition: all 0.4s ease;
+    transform: scale(1.1);
+    color: black;
+  
+}
